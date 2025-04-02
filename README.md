@@ -24,7 +24,7 @@ Results-driven full stack web and mobile developer with a strong passion for bui
 ## Projects
 
 
-### [Codarena - Coding Competition Platform (NJFP): ](https://codarena.gotech.sa)
+### [Codarena - Coding Competition Platform: ](https://codarena.gotech.sa)
 - Description: Codarena is a coding competition platform designed for companies and organizations to host coding challenges and assessments. It supports multilingual functionality (Arabic and English) and provides customizable competition landing pages, a leaderboard system, and an interactive coding environment powered by the Ace Code Editor for real-time code execution and assessment.
 - Technologies: Python, Django, MySQL, Git, Ace Editor
 
